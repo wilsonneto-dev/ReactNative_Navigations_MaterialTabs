@@ -1,3 +1,3 @@
-import navigation from './drawerNavigator';
+import navigation from './bottomTab';
 
 export default navigation;
