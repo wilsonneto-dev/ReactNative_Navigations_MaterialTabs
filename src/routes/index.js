@@ -1,3 +1,3 @@
-import navigation from './bottomTab';
+import navigation from './topTabNav';
 
 export default navigation;
