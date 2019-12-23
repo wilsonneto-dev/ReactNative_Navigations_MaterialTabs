@@ -1,3 +1,3 @@
-import navigation from './stackNavigator';
+import navigation from './drawerNavigator';
 
 export default navigation;
